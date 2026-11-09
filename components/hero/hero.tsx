@@ -15,7 +15,7 @@ export function Hero() {
 
       <div
         aria-hidden="true"
-        className="absolute inset-0 bg-gradient-to-t from-charcoal via-charcoal/40 to-transparent lg:bg-gradient-to-r lg:from-charcoal/90 lg:via-charcoal/30 lg:to-transparent"
+        className="absolute inset-0 bg-gradient-to-t from-charcoal from-25% via-charcoal/70 via-50% to-transparent lg:from-0% lg:via-30% lg:bg-gradient-to-r lg:from-charcoal/90 lg:via-charcoal/30 lg:to-transparent"
       />
       <div
         aria-hidden="true"
